@@ -1,0 +1,271 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 1vw;
+  font-family: "poppins";
+}
+
+body {
+  background-color: #EFF7FA !important; 
+}
+
+
+.header {
+  top: 0;
+  z-index: 1;
+  background-color: white !important;
+}
+
+
+.bell,
+.heart,
+.shop {
+  width: 1.5rem;
+}
+
+
+.share {
+  font-size: 0.7rem;
+  /* color: blue; */
+}
+
+.share1 {
+  font-size: 0.7rem;
+  color: #24a3b5;
+}
+
+.location {
+  width: 1rem;
+  height: 1.5rem;
+}
+
+.btn {
+  background-color: (0deg, #ff934b 0%, #ff5e62 100%);
+}
+.search {
+  width: 8rem;
+  /* padding: 2rem; */
+  height: 2.5rem;
+  color: white;
+  background-color: #dc3535c4;
+}
+
+.searchBar {
+  width: 40%;
+  background-color: #e9f6f7;
+  cursor: pointer;
+  /* border: 1px solid grey; */
+
+}
+
+.searchBar input {
+  background-color: #e9f6f7;
+  width: 100%;
+}
+.b {
+  background-color: #e9f6f7;
+  /* width: 10rem; */
+}
+.sign {
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.made {
+  width: 3rem;
+}
+.product {
+  background-color: #24a3b5;
+}
+.products {
+  font-size: 0.7rem;
+  color: white;
+  cursor: pointer;
+}
+.Time {
+  font-size: 0.7rem;
+  color: #757575;
+  cursor: pointer;
+}
+
+.Time li:hover {
+  color: blue;
+}
+
+
+.slider {
+  width: 70%;
+}
+
+.deal{
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.deal li:hover{
+  text-decoration: underline;
+}
+
+.card-text {
+  font-size: 0.8rem;
+}
+
+.img {
+  height: 15rem;
+  width: 5rem;
+}
+
+.example::-webkit-scrollbar,
+.example-1::-webkit-scrollbar {
+  display: block;
+}
+
+.cur {
+  cursor: pointer;
+}
+.beby-1 {
+  width: 16.8rem !important;
+}
+.beby:hover,
+.baby:hover,
+.img-1:hover {
+  transform: scale(1.04);
+}
+
+.baby {
+  width: 7rem !important;
+}
+.view {
+  padding: 1rem;
+  width: 84%;
+}
+
+.beby-1:hover {
+  border: 1px solid lightblue;
+}
+.offers {
+  cursor: pointer;
+  width: 15%;
+}
+
+.text {
+  color: #757575;
+}
+
+.price del {
+  color: #757575;
+}
+
+.price span{
+  color: #24A3B5;
+}
+
+
+.card {
+  cursor: pointer;
+}
+
+.card img:hover {
+  transform: scale(1.04);
+}
+.flat img {
+  width: 16.9rem;
+  /* border: 2px solid; */
+  cursor: pointer;
+}
+
+
+
+.protien img{
+  width: 22.2rem !important;
+  cursor: pointer;
+}
+
+.price1 img {
+  width: 30%;
+}
+
+.low-price {
+  width: 5% !important;
+}
+
+.detail {
+  font-size: 0.8rem;
+  color: #555555;
+  cursor: pointer;
+
+}
+.detail ul li:hover{
+  color: #0D6EFD;
+}
+
+.detail ul li:first-child{
+  font-weight: 600;
+  padding-bottom: 0.6rem;
+  color: black;
+  text-decoration: none !important;
+}
+
+
+
+.keep img {
+  width: 2rem;
+  object-fit: contain;
+  cursor: pointer;
+}
+.keep1 img{
+  width: 35rem;
+  object-fit: contain;
+
+}
+.category p {
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.category strong:hover {
+  color: #0D6EFD;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+footer p,img {
+  cursor: pointer;
+}
+
+
+
+.pic-1{
+  width: 10rem !important;
+}
+
+.band {
+  margin-right: 3rem;
+}
+
+.price1 p {
+  color: #757575;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

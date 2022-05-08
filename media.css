@@ -1,0 +1,200 @@
+@media(max-width:768px){
+
+  .share,
+  .share1,
+  .location,
+  .bell,
+  .heart,
+  .shop {
+    display: none;
+  }
+  h4 {
+    font-size: 3rem !important;
+  }
+
+  .shop-clues {
+    width: 80%;
+  }
+
+  .deal {
+    font-size: 2.5rem;
+  }
+
+  .sign {
+    font-size: 2.5rem;
+    padding-top: 2rem;
+  }
+
+  .searchBar {
+    height: 6rem;
+    margin-top: 1rem;
+  }
+
+  .search {
+    height: 5.8rem;
+    width: 14rem; 
+    font-size: 2rem;
+  }
+
+  .searchBar svg {
+    width: 6rem;
+    padding-left: 2rem !important;
+  }
+
+  .carosol {
+    height: 4 0rem;
+  }
+  .made{
+    width: 14rem;
+  }
+
+  
+  
+
+
+
+
+  .products li {
+    font-size: 3rem;
+    text-decoration: none;
+    /* gap: 5rem; */
+    /* border: 2px solid black; */
+
+  }
+
+  .products::-webkit-scrollbar {
+    display: none;
+}
+
+.Time::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .Time{
+    font-size: 1rem;
+  }
+
+
+
+  .cur{
+    /* width: 40rem !important; */
+    width: 50% !important;
+
+  }
+  .cur1{
+    width: 50rem !important;
+    font-size: 2rem !important;
+  }
+
+  .protien img {
+    width: 100% !important 
+    }
+
+  .flat div img {
+    width: 100% !important;
+  }
+
+  
+
+  .text,
+  .price {
+    font-size: 3rem;
+  }
+
+  .price1{
+    gap: 4rem;
+  }
+
+  .price1 img {
+    width: 50%;
+    margin-left: 2rem;
+    padding: 0 0;
+  }
+
+  .band {
+    font-size: 5rem !important;
+  }
+
+  .price1 p {
+    font-size: 3rem;
+  }
+
+
+  .pic-1 {
+    width: 50% !important;
+    margin-left: 2rem !important;
+  }
+
+  .products{
+    overflow-x: scroll;
+    font-size: 3rem;
+  }
+  .products > ul > li {
+    white-space: nowrap;
+  }
+
+
+ .Time{
+   overflow-x: scroll;
+   font-size: 3rem;
+   white-space: nowrap;
+ }
+ 
+ .detail ul li {
+   font-size: 2rem;
+ }
+
+ .touch h5 {
+   text-align: center;
+   font-size: 3rem;
+ }
+
+ .keep1,
+ .keep{
+  text-align: center
+}
+.keep div{
+  width: 100% !important;
+  padding-bottom: 2rem;
+}
+
+.keep img {
+  width: 7%;
+}
+
+.keep1 img {
+  width: 100% !important;
+}
+ .touch {
+   align-items: center;
+ }
+
+ .category  {
+   display: none;
+ }
+ footer p{
+  font-size: 2.4rem;
+
+ } 
+ footer div{
+   flex-direction: column;
+   /* justify-content: space-around !important; */
+
+ }
+
+}

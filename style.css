@@ -164,6 +164,10 @@ body {
   color: #24A3B5;
 }
 
+.searchBar input{
+  outline: none;
+  border: none;
+}
 
 .card {
   cursor: pointer;

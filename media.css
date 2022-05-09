@@ -30,16 +30,28 @@
     margin-top: 1rem;
   }
 
+  .searchBar input{
+    width: 100%;
+    outline: none;
+    border: none; 
+    padding-left: 5rem;
+    padding-right: 0.5rem;
+    font-size: 1.5rem;
+  }
+  
+  .searchBar img{
+    width: 3.5rem;
+    z-index: 1;
+    
+  }
+
   .search {
-    height: 5.8rem;
-    width: 14rem; 
+    width: 12rem;
+    height: 6rem;
     font-size: 2rem;
   }
 
-  .searchBar svg {
-    width: 6rem;
-    padding-left: 2rem !important;
-  }
+  
 
   .carosol {
     height: 4 0rem;
@@ -69,6 +81,7 @@
 .Time::-webkit-scrollbar {
   display: none;
 }
+
 
 
 

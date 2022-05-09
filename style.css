@@ -108,6 +108,7 @@ body {
 
 .deal li:hover{
   text-decoration: underline;
+  color: blue;
 }
 
 .card-text {
@@ -129,6 +130,7 @@ body {
 }
 .beby-1 {
   width: 16.8rem !important;
+  box-shadow: 5px 5px 5px #888888;
 }
 .beby:hover,
 .baby:hover,
@@ -165,9 +167,20 @@ body {
 }
 
 .searchBar input{
+  width: 100%;
   outline: none;
-  border: none;
+  border: none; 
+  padding-left: 2rem;
+  padding-right: 0.5rem;
 }
+
+.searchBar img{
+  width: 1.5rem;
+  z-index: 1;
+  
+}
+
+
 
 .card {
   cursor: pointer;
@@ -259,6 +272,23 @@ footer p,img {
 }
 
 
+
+
+
+.me{
+  border: 2px solid;
+  /* font-size: 5rem; */
+  position: relative;
+  /* position: fixed; */
+  /* margin-top: 22rem; */
+}
+
+/* .me a{
+  top: 22rem;
+  position: absolute;  
+  position: static;
+  font-size: 22rem;
+} */
 
 
 
